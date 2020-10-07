@@ -1,0 +1,22 @@
+{
+  "name": "factorialnpmeasy",
+  "version": "1.0.0",
+  "description": "A simple package to get factorial",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparkingdark/factorialnpmeasy.git"
+  },
+  "keywords": [
+    "factorial"
+  ],
+  "author": "Debojyoti Chakraborty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sparkingdark/factorialnpmeasy/issues"
+  },
+  "homepage": "https://github.com/sparkingdark/factorialnpmeasy#readme"
+}

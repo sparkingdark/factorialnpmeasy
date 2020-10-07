@@ -1,5 +1,14 @@
-import Factorial from './utils/factorial'
+const Factorial = (n)=>{
+    var fact = 1
+    for (let index = 1; index <= n; index++) {
+        fact*=index
+        
+    }
 
-const Facto = Factorial(n)
+    return fact
 
-exports.Facto = Facto
+}
+
+
+
+module.exports = Factorial
